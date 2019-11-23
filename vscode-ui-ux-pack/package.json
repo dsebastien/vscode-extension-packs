@@ -4,6 +4,7 @@
   "displayName": "vscode-ui-ux-pack",
   "description": "Useful extensions for improving the UI/UX of VS Code",
   "version": "1.0.0",
+  "repository": {"url": "https://github.com/dsebastien/vscode-extension-packs"},
   "engines": {
     "vscode": "^1.40.0"
   },

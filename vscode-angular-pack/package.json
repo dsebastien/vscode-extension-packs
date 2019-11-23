@@ -4,6 +4,7 @@
   "displayName": "vscode-angular-pack",
   "description": "Useful extensions for Angular development",
   "version": "1.0.0",
+  "repository": {"url": "https://github.com/dsebastien/vscode-extension-packs"},
   "engines": {
     "vscode": "^1.40.0"
   },

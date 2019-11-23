@@ -1,4 +1,4 @@
-# VSCode opinionated extension packs
+# VSCode extension packs
 
 This repository contains a set of extension packs for VSCode, grouped arbitrarily per "context".
 

@@ -1,0 +1,30 @@
+{
+  "name": "vscode-extension-packs",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sebastien Dubois",
+    "url": "https://www.dsebastien.net"
+  },
+  "license": "MIT",
+  "scripts": {
+    "publish:patch": "npm version patch && npm run do-publish",
+    "publish:minor": "npm version minor && npm run do-publish",
+    "publish:major": "npm version major && npm run do-publish",
+    "publish": "npm run publish:minor",
+    "do-publish": "bash ./publish.sh",
+    "postdo-publish": "git add -A && git tag ${VERSION} && git push --tags"
+  },
+  "private": true,
+  "repository": {
+    "url": "https://github.com/dsebastien/vscode-extension-packs"
+  },
+  "bugs": {
+    "url": "https://github.com/dsebastien/vscode-extension-packs/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.4.0",
+    "npm": ">=6.9.0"
+  }
+}

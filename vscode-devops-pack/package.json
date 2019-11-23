@@ -1,13 +1,34 @@
 {
   "publisher": "dsebastien",
+  "author": {
+    "name": "Sebastien Dubois",
+    "url": "https://www.dsebastien.net"
+  },
   "name": "vscode-devops-pack",
   "displayName": "vscode-devops-pack",
   "description": "Useful extensions for DevOps and remote development",
+  "keywords": [
+    "devops",
+    "remote",
+    "dev",
+    "devsecops"
+  ],
   "version": "1.0.0",
-  "repository": {"url": "https://github.com/dsebastien/vscode-extension-packs"},
+  "repository": {
+    "url": "https://github.com/dsebastien/vscode-extension-packs"
+  },
+  "bugs": {
+    "url": "https://github.com/dsebastien/vscode-extension-packs/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e415e",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.40.0"
   },
+  "license": "SEE LICENSE IN LICENSE",
   "categories": [
     "Extension Packs"
   ],

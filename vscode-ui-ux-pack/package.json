@@ -1,13 +1,35 @@
 {
   "publisher": "dsebastien",
+  "author": {
+    "name": "Sebastien Dubois",
+    "url": "https://www.dsebastien.net"
+  },
   "name": "vscode-ui-ux-pack",
   "displayName": "vscode-ui-ux-pack",
   "description": "Useful extensions for improving the UI/UX of VS Code",
+  "keywords": [
+    "ui",
+    "ux",
+    "themes",
+    "look and feel",
+    "icons"
+  ],
   "version": "1.0.0",
-  "repository": {"url": "https://github.com/dsebastien/vscode-extension-packs"},
+  "repository": {
+    "url": "https://github.com/dsebastien/vscode-extension-packs"
+  },
+  "bugs": {
+    "url": "https://github.com/dsebastien/vscode-extension-packs/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e415e",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.40.0"
   },
+  "license": "SEE LICENSE IN LICENSE",
   "categories": [
     "Extension Packs"
   ],

@@ -1,0 +1,20 @@
+{
+  "publisher": "dsebastien",
+  "name": "vscode-python-pack",
+  "displayName": "vscode-python-pack",
+  "description": "Useful extensions for Python development",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "almenon.arepl",
+    "batisteo.vscode-django",
+    "donjayamanne.python-extension-pack",
+    "magicstack.MagicPython",
+    "ms-python.python"
+  ]
+}

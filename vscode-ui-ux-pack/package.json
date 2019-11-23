@@ -1,0 +1,26 @@
+{
+  "publisher": "dsebastien",
+  "name": "vscode-ui-ux-pack",
+  "displayName": "vscode-ui-ux-pack",
+  "description": "Useful extensions for improving the UI/UX of VS Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "CoenraadS.bracket-pair-colorizer",
+    "Equinusocio.vsc-material-theme",
+    "PKief.material-icon-theme",
+    "hoovercj.vscode-dimmer",
+    "hoovercj.vscode-power-mode",
+    "johnpapa.vscode-peacock",
+    "johnpapa.winteriscoming",
+    "lukas-tr.materialdesignicons-intellisense",
+    "oderwat.indent-rainbow",
+    "vincaslt.highlight-matching-tag",
+    "vscode-icons-team.vscode-icons"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "publisher": "dsebastien",
+  "name": "vscode-angular-pack",
+  "displayName": "vscode-angular-pack",
+  "description": "Useful extensions for Angular development",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Angular.ng-template",
+    "Mikael.Angular-BeastCode",
+    "Zignd.html-css-class-completion",
+    "cyrilletuzi.angular-schematics",
+    "johnpapa.Angular2",
+    "johnpapa.angular-essentials",
+    "mrmlnc.vscode-scss",
+    "msjsdiag.debugger-for-chrome",
+    "natewallace.angular2-inline",
+    "nrwl.angular-console"
+  ]
+}

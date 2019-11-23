@@ -1,0 +1,48 @@
+{
+  "publisher": "dsebastien",
+  "name": "vscode-tools-pack",
+  "displayName": "vscode-tools-pack",
+  "description": "Useful tools for VS Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "DotJoshJohnson.xml",
+    "EditorConfig.EditorConfig",
+    "Gruntfuggly.todo-tree",
+    "Shan.code-settings-sync",
+    "Snowcoders.sortier-vscode",
+    "Tyriar.lorem-ipsum",
+    "Tyriar.sort-lines",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "WallabyJs.quokka-vscode",
+    "aaron-bond.better-comments",
+    "adamhartford.vscode-base64",
+    "alefragnani.Bookmarks",
+    "anseki.vscode-color",
+    "bibhasdn.unique-lines",
+    "bierner.color-info",
+    "cssho.vscode-svgviewer",
+    "dkundel.vscode-new-file",
+    "formulahendry.auto-close-tag",
+    "formulahendry.code-runner",
+    "joaompinto.asciidoctor-vscode",
+    "mikestead.dotenv",
+    "minhthai.vscode-todo-parser",
+    "mrmlnc.vscode-duplicate",
+    "naumovs.color-highlight",
+    "patbenatar.advanced-new-file",
+    "quicktype.quicktype",
+    "redhat.vscode-yaml",
+    "ryuta46.multi-command",
+    "softwaredotcom.swdc-vscode",
+    "stkb.rewrap",
+    "techer.open-in-browser",
+    "wayou.vscode-todo-highlight",
+    "yzhang.markdown-all-in-one"
+  ]
+}

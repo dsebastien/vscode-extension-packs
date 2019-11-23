@@ -1,0 +1,23 @@
+{
+  "publisher": "dsebastien",
+  "name": "vscode-git-pack",
+  "displayName": "vscode-git-pack",
+  "description": "Useful extensions for Git",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "GitHub.vscode-pull-request-github",
+    "KnisterPeter.vscode-github",
+    "arturock.gitstash",
+    "codezombiech.gitignore",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "fatihacet.gitlab-workflow",
+    "waderyan.gitblame"
+  ]
+}

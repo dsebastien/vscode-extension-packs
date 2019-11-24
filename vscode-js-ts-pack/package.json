@@ -45,13 +45,13 @@
     "juliensanmartin.vscode-depcheck",
     "ms-vscode.typescript-javascript-grammar",
     "ms-vscode.vscode-typescript-tslint-plugin",
-    "nrwl.angular-console",
     "pflannery.vscode-versionlens",
     "pmneo.tsimporter",
     "rbbit.typescript-hero",
     "sburg.vscode-javascript-booster",
     "steoates.autoimport",
     "stringham.move-ts",
-    "wix.vscode-import-cost"
+    "wix.vscode-import-cost",
+    "quicktype.quicktype"
   ]
 }

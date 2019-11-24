@@ -12,7 +12,7 @@
     "publish:major": "npm version major && npm run do-publish",
     "publish": "npm run publish:minor",
     "do-publish": "bash ./publish.sh",
-    "postdo-publish": "git add -A && git tag ${VERSION} && git push && git push --tags"
+    "postdo-publish": "git add -A && commit -m 'Published new version' && git tag ${VERSION} && git push && git push --tags"
   },
   "private": true,
   "repository": {

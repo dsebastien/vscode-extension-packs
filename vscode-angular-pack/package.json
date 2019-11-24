@@ -32,15 +32,13 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "Angular.ng-template",
     "Mikael.Angular-BeastCode",
     "Zignd.html-css-class-completion",
     "cyrilletuzi.angular-schematics",
-    "johnpapa.Angular2",
     "johnpapa.angular-essentials",
     "mrmlnc.vscode-scss",
     "msjsdiag.debugger-for-chrome",
-    "natewallace.angular2-inline",
-    "nrwl.angular-console"
+    "VisualStudioExptTeam.vscodeintellicode",
+    "lukas-tr.materialdesignicons-intellisense"
   ]
 }

@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.0
+
+- Added Visual Studio IntelliCode
+- Added Material Design Icons IntelliSense
+- Updated readme
+
 ## 1.0.1
 
 - Added icon

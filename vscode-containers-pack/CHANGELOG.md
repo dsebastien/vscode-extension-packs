@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.0
+
+- Nothing new for this pack
+
 ## 1.1.0
 
 - Updated readme

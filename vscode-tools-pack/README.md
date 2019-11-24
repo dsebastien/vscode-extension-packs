@@ -74,6 +74,10 @@ Pack of useful tools for VS Code.
 - open in browser: https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser
   - This allows you to open the current file in your default browser or application.
 
+### Snippets
+- Projects Snippets: https://marketplace.visualstudio.com/items?itemName=rebornix.project-snippets
+  - Project/Workspace level snippets
+
 ### Gadgets
 
 - Code Time: https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode

@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.0
+
+- Added Search node_modules
+
 ## 1.1.0
 
 - Removed Angular Console

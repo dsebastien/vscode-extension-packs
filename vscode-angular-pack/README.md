@@ -16,3 +16,7 @@ Angular related extension pack.
 - IntelliSense for SASS/SCSS files: https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss
 - Visual Studio IntelliCode: https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
   - AI-assisted development
+- Angular 2 TypeScript Emmet
+  - Support zen-coding syntax for Angular 2 typescript files.
+- angular2-switcher
+  - Easily navigate to component's files in angular2 project.

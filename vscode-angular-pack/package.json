@@ -39,6 +39,8 @@
     "mrmlnc.vscode-scss",
     "msjsdiag.debugger-for-chrome",
     "VisualStudioExptTeam.vscodeintellicode",
-    "lukas-tr.materialdesignicons-intellisense"
+    "lukas-tr.materialdesignicons-intellisense",
+    "jakethashi.vscode-angular2-emmet",
+    "infinity1207.angular2-switcher"
   ]
 }

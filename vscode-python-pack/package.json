@@ -37,6 +37,7 @@
     "donjayamanne.python-extension-pack",
     "magicstack.MagicPython",
     "ms-python.python",
-    "wholroyd.jinja"
+    "wholroyd.jinja",
+    "mgesbert.python-path"
   ]
 }

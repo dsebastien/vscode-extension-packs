@@ -18,3 +18,5 @@ Python extension pack.
   - Jinja template language support for Visual Studio Code
 - AREPL for Python: https://marketplace.visualstudio.com/items?itemName=almenon.arepl
   - real-time python scratchpad
+- Python Path: https://marketplace.visualstudio.com/items?itemName=mgesbert.python-path
+  - Python imports utils.

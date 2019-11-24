@@ -44,6 +44,8 @@
     "lukas-tr.materialdesignicons-intellisense",
     "oderwat.indent-rainbow",
     "vincaslt.highlight-matching-tag",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "IBM.output-colorizer",
+    "pranaygp.vscode-css-peek"
   ]
 }

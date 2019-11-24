@@ -52,6 +52,7 @@
     "steoates.autoimport",
     "stringham.move-ts",
     "wix.vscode-import-cost",
-    "quicktype.quicktype"
+    "quicktype.quicktype",
+    "jasonnutter.search-node-modules"
   ]
 }

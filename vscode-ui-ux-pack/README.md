@@ -12,6 +12,8 @@ UI/UX related extension pack.
   - Makes indentation easier to read
 - Highlight matching tag: https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag
   - Highlights matching closing or opening tag
+- CSS Peek: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+  - Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 
 ### Themes
 
@@ -28,6 +30,8 @@ UI/UX related extension pack.
   - Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
 - VSCode Dimmer: https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-dimmer
   - Dims text outside of selections by reducing the opacity of the text. Supports multiple selections.
+- Output Colorizer: https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer
+  - Syntax highlighting for log files
 
 ### Gatdgets
 

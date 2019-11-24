@@ -36,6 +36,8 @@ Useful extensions for JS/TS development.
   - Go to npm site of your dependencies
 - Version lens: https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
   - Shows the latest version for each package using code lens
+- Search node_modules: https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules
+  - Quickly search the node_modules folder.
 
 ### Tools
 

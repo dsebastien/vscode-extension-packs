@@ -51,3 +51,8 @@ Useful extensions for JS/TS development.
   - Simple way to run or debug a single (or multiple) tests from context-menu
 - Import Cost: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
   - Display import/require package size in the editor
+
+### Snippets
+
+- Jest Snippets: https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets
+  - Code snippets for testing framework Jest

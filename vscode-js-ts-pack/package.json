@@ -53,6 +53,7 @@
     "stringham.move-ts",
     "wix.vscode-import-cost",
     "quicktype.quicktype",
-    "jasonnutter.search-node-modules"
+    "jasonnutter.search-node-modules",
+    "andys8.jest-snippets"
   ]
 }

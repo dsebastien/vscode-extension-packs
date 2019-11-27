@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.1
+
+- Nothing new for this pack
+
 ## 1.2.0
 
 - Added Output Colorizer

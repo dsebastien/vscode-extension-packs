@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.3.0
+
+- Nothing new for this pack
+
 ## 1.2.1
 
 - Added Jest snippets

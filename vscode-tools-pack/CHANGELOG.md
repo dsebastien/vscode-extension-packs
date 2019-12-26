@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.3.0
+
+- Added Checkpoints
+- Added Local history
+
 ## 1.2.1
 
 - Nothing new for this pack

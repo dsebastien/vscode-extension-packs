@@ -54,6 +54,7 @@
     "formulahendry.auto-close-tag",
     "formulahendry.code-runner",
     "joaompinto.asciidoctor-vscode",
+    "micnil.vscode-checkpoints",
     "mikestead.dotenv",
     "minhthai.vscode-todo-parser",
     "mrmlnc.vscode-duplicate",
@@ -67,6 +68,7 @@
     "techer.open-in-browser",
     "wayou.vscode-todo-highlight",
     "yzhang.markdown-all-in-one",
-    "rebornix.project-snippets"
+    "rebornix.project-snippets",
+    "xyz.local-history"
   ]
 }

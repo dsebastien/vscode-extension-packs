@@ -11,7 +11,7 @@ See [CHANGELOG.md](CHANGELOG.md) file
 
 ## Publish
 
-- Update the CHANGELOG.md file
+- Update the CHANGELOG.md files
 - Add/commit/push
 - Run one of the scripts:
   - `npm run publish:patch`

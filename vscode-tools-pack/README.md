@@ -15,6 +15,10 @@ Pack of useful tools for VS Code.
 - XML Tools: https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml
 - YAML: https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
   - YAML Language Support by Red Hat, with built-in Kubernetes and Kedge syntax support
+- Checkpoints: https://marketplace.visualstudio.com/items?itemName=micnil.vscode-checkpoints
+  - Checkpoints used in between commits for keeping a local short-term history of work in progress files, like bookmarks in you undo-stack.
+- Local History: https://marketplace.visualstudio.com/items?itemName=xyz.local-history
+  - Save files into local history
 
 ### Awesome utilities
 - Settings Sync: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync

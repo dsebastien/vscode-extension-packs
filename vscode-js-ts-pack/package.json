@@ -54,6 +54,7 @@
     "wix.vscode-import-cost",
     "quicktype.quicktype",
     "jasonnutter.search-node-modules",
-    "andys8.jest-snippets"
+    "andys8.jest-snippets",
+    "Orta.vscode-jest"
   ]
 }

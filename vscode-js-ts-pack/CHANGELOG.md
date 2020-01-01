@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.4.0
+
+- Added Jest (Orta's plugin)
+
 ## 1.3.0
 
 - Nothing new for this pack

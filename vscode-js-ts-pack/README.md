@@ -47,6 +47,8 @@ Useful extensions for JS/TS development.
   - Code formatter using prettier
 - ESLint: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
   - Integrates ESLint JavaScript into VS Code.
+- Jest: https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest
+  - Best integration for Jest in VS Code
 - Jest Runner: https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner
   - Simple way to run or debug a single (or multiple) tests from context-menu
 - Import Cost: https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost

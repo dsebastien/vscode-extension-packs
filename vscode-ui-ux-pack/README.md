@@ -33,7 +33,7 @@ UI/UX related extension pack.
 - Output Colorizer: https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer
   - Syntax highlighting for log files
 
-### Gatdgets
+### Gadgets
 
 - Power Mode: https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode
   - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
